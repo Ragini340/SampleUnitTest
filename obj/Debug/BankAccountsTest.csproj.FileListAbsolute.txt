@@ -1,0 +1,17 @@
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\BankAccountsTest.dll
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\BankAccountsTest.pdb
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\SampleUnitTest.exe
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\SampleUnitTest.pdb
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\SampleUnitTest.exe.config
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\RRagini\source\repos\BankAccountsTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\RRagini\source\repos\BankAccountsTest\obj\Debug\BankAccountsTest.csproj.AssemblyReference.cache
+C:\Users\RRagini\source\repos\BankAccountsTest\obj\Debug\BankAccountsTest.csproj.CoreCompileInputs.cache
+C:\Users\RRagini\source\repos\BankAccountsTest\obj\Debug\BankAccountsTest.csproj.CopyComplete
+C:\Users\RRagini\source\repos\BankAccountsTest\obj\Debug\BankAccountsTest.dll
+C:\Users\RRagini\source\repos\BankAccountsTest\obj\Debug\BankAccountsTest.pdb
